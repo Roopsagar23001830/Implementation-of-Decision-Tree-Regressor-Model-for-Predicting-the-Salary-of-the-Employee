@@ -57,7 +57,17 @@ plt.show()
 ```
 
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
+
+## HEAD(),INFO() & NULL():
+
+
+## Converting string literals to numerical values using label encoder:
+
+
+## MEAN SQUARED ERROR:
+## R2 (VARIANCE):
+## DATA PREDICTION & DECISION TREE REGRESSOR FOR PREDICTING THE SALARY OF THE EMPLOYEE:
+
 
 
 ## Result:
